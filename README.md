@@ -1,8 +1,8 @@
-Hello! 👋 Welcome to my GitHub!
+Hello! 👋 Welcome to my GitHub Profile!
 
-Computer Science undergrad at Unversity of Debrecen Hungary 🇭🇺
+I am a Computer Science undergrad at thr Unversity of Debrecen, Hungary 🇭🇺
 
-**Skills:**
+These are my **Skills**:
 - Python 
 - C (Programming) 
 - Ubuntu Operating System
