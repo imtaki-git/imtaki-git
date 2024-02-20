@@ -1,16 +1,16 @@
-<p align="center">IN THE NAME OF ALLAH</p>
+Hi, my name is Mohammad and I am a currently studying my Bachelor in Computer Science at the unviversity of Debrecen 🇭🇺. To put it simply I like to code, and build new and challenging projects.
 
-<img src="image/GitHub banner.png">
-
-<p align="center">
-  Hi, my name is <a href="https://www.alirezasamadi.com/">Ali Reza</a> and I am a web developer with over 2 years of experience in the field. I specialize in front-end development and have a strong background in ReactJS. I am always looking to learn and grow as a developer, and I am excited to work on new and challenging. projects
-</p>
 
 ## My Currect Stacks
 
-<img src="https://skillicons.dev/icons?i=next,typescript,redux,tailwindcss,vercel,firebase,figma,framer-motion" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python" />
+  </a>
+</p>
 
 ## Languages and Stats
+
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/html5-%23e34f26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
   <img src="https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=for-the-badge">
@@ -23,4 +23,11 @@
   <img src="https://img.shields.io/badge/figma-%23f24e1e.svg?logo=figma&logoColor=white&style=for-the-badge">
 </div>
 
-
+<div align="center">
+  <img src="https://img.shields.io/badge/C_Programming-%23a8b9cc.svg?logo=c&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/python-%23000080.svg?logo=python&logoColor=%23FFFF00&style=for-the-badge">
+  <img src="https://img.shields.io/badge/ubuntu-%23e95420.svg?logo=ubuntu&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/matlab-%23bb92ac.svg?logo=mathworks&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/visual%20studio%20code-%23007acc.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/zed%20ide-%23000000.svg?logo=zed&logoColor=white&style=for-the-badge">
+</div>
