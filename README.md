@@ -1,7 +1,10 @@
+<p align="center">
+<a href="https://t3.gg"><img src="./assets/Banner.JPG" alt="T3 Tools Logo" width="250"></a>
+</p>
+
 Hi, my name is Mohammad and I am a currently studying my Bachelor in Computer Science at the unviversity of Debrecen 🇭🇺. To put it simply I like to code, and build new and challenging projects.
 
 Checkout my [LinkedIn](www.linkedin.com/in/taki2004)
-
 
 ## My Currect Stacks
 
