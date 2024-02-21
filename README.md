@@ -1,5 +1,7 @@
 Hi, my name is Mohammad and I am a currently studying my Bachelor in Computer Science at the unviversity of Debrecen 🇭🇺. To put it simply I like to code, and build new and challenging projects.
 
+Checkout my [LinkedIn](www.linkedin.com/in/taki2004)
+
 
 ## My Currect Stacks
 
